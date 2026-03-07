@@ -10,6 +10,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanjitram/leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjitram/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjitram/leethub/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sanjitram/leethub/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -17,12 +18,14 @@
 | [0101-symmetric-tree](https://github.com/sanjitram/leethub/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjitram/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjitram/leethub/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sanjitram/leethub/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sanjitram/leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sanjitram/leethub/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanjitram/leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sanjitram/leethub/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -31,6 +34,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanjitram/leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjitram/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjitram/leethub/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/sanjitram/leethub/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
