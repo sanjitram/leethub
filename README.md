@@ -38,6 +38,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanjitram/leethub/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjitram/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Stack
 |  |
@@ -46,6 +47,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanjitram/leethub/tree/master/0002-add-two-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/sanjitram/leethub/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/sanjitram/leethub/tree/master/2396-strictly-palindromic-number) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sanjitram/leethub/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
