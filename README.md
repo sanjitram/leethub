@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanjitram/leethub/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sanjitram/leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjitram/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Stack
 |  |
@@ -57,6 +58,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sanjitram/leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2396-strictly-palindromic-number](https://github.com/sanjitram/leethub/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
