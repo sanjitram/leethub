@@ -92,6 +92,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjitram/leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/sanjitram/leethub/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/sanjitram/leethub/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sanjitram/leethub/tree/master/0040-combination-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjitram/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/sanjitram/leethub/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sanjitram/leethub/tree/master/0040-combination-sum-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
