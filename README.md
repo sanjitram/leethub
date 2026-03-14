@@ -38,6 +38,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sanjitram/leethub/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjitram/leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Linked List
 |  |
@@ -50,6 +51,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sanjitram/leethub/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjitram/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Math
 |  |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanjitram/leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/sanjitram/leethub/tree/master/0042-trapping-rain-water) |
 | [2396-strictly-palindromic-number](https://github.com/sanjitram/leethub/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -93,6 +96,7 @@
 | [0036-valid-sudoku](https://github.com/sanjitram/leethub/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/sanjitram/leethub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sanjitram/leethub/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/sanjitram/leethub/tree/master/0042-trapping-rain-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,4 +124,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sanjitram/leethub/tree/master/0036-valid-sudoku) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sanjitram/leethub/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
