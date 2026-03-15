@@ -86,6 +86,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjitram/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/sanjitram/leethub/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sanjitram/leethub/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/sanjitram/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0567-permutation-in-string](https://github.com/sanjitram/leethub/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -111,6 +112,7 @@
 | [0048-rotate-image](https://github.com/sanjitram/leethub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sanjitram/leethub/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/sanjitram/leethub/tree/master/0057-insert-interval) |
+| [0128-longest-consecutive-sequence](https://github.com/sanjitram/leethub/tree/master/0128-longest-consecutive-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sanjitram/leethub/tree/master/0572-subtree-of-another-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sanjitram/leethub/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
