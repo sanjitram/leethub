@@ -10,6 +10,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanjitram/leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjitram/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjitram/leethub/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/sanjitram/leethub/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sanjitram/leethub/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -18,6 +19,7 @@
 | [0101-symmetric-tree](https://github.com/sanjitram/leethub/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjitram/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjitram/leethub/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/sanjitram/leethub/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sanjitram/leethub/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -34,6 +36,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanjitram/leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjitram/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjitram/leethub/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0572-subtree-of-another-tree](https://github.com/sanjitram/leethub/tree/master/0572-subtree-of-another-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sanjitram/leethub/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -145,4 +148,12 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sanjitram/leethub/tree/master/0049-group-anagrams) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/sanjitram/leethub/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/sanjitram/leethub/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
