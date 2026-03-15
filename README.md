@@ -58,6 +58,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanjitram/leethub/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sanjitram/leethub/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/sanjitram/leethub/tree/master/0048-rotate-image) |
 | [2396-strictly-palindromic-number](https://github.com/sanjitram/leethub/tree/master/2396-strictly-palindromic-number) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@
 | [0039-combination-sum](https://github.com/sanjitram/leethub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sanjitram/leethub/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sanjitram/leethub/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/sanjitram/leethub/tree/master/0048-rotate-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sanjitram/leethub/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/sanjitram/leethub/tree/master/0048-rotate-image) |
 ## Monotonic Stack
 |  |
 | ------- |
