@@ -81,11 +81,13 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjitram/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjitram/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/sanjitram/leethub/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/sanjitram/leethub/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjitram/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjitram/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/sanjitram/leethub/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0042-trapping-rain-water](https://github.com/sanjitram/leethub/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sanjitram/leethub/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sanjitram/leethub/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sanjitram/leethub/tree/master/0049-group-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,4 +136,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanjitram/leethub/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/sanjitram/leethub/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
