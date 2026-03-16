@@ -117,6 +117,7 @@
 | [0049-group-anagrams](https://github.com/sanjitram/leethub/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/sanjitram/leethub/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/sanjitram/leethub/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/sanjitram/leethub/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjitram/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0739-daily-temperatures](https://github.com/sanjitram/leethub/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sanjitram/leethub/tree/master/0875-koko-eating-bananas) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjitram/leethub/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/sanjitram/leethub/tree/master/0074-search-a-2d-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sanjitram/leethub/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
@@ -151,6 +153,7 @@
 | [0036-valid-sudoku](https://github.com/sanjitram/leethub/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sanjitram/leethub/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sanjitram/leethub/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/sanjitram/leethub/tree/master/0074-search-a-2d-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
