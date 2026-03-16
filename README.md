@@ -56,6 +56,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanjitram/leethub/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjitram/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0739-daily-temperatures](https://github.com/sanjitram/leethub/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0049-group-anagrams](https://github.com/sanjitram/leethub/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/sanjitram/leethub/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjitram/leethub/tree/master/0128-longest-consecutive-sequence) |
+| [0739-daily-temperatures](https://github.com/sanjitram/leethub/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanjitram/leethub/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/sanjitram/leethub/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
