@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sanjitram/leethub/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/sanjitram/leethub/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjitram/leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Linked List
 |  |
@@ -95,6 +96,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjitram/leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjitram/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/sanjitram/leethub/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/sanjitram/leethub/tree/master/0072-edit-distance) |
 | [0567-permutation-in-string](https://github.com/sanjitram/leethub/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
