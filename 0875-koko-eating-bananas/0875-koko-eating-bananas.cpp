@@ -18,6 +18,6 @@ public:
                 lo=mid+1;
             
         }
-        return hi;
+        return lo;
     }
 };
