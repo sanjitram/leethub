@@ -88,6 +88,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjitram/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/sanjitram/leethub/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sanjitram/leethub/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/sanjitram/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjitram/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0567-permutation-in-string](https://github.com/sanjitram/leethub/tree/master/0567-permutation-in-string) |
 ## String
@@ -115,6 +116,7 @@
 | [0048-rotate-image](https://github.com/sanjitram/leethub/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sanjitram/leethub/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/sanjitram/leethub/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/sanjitram/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjitram/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0739-daily-temperatures](https://github.com/sanjitram/leethub/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sanjitram/leethub/tree/master/0875-koko-eating-bananas) |
@@ -148,6 +150,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/sanjitram/leethub/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sanjitram/leethub/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/sanjitram/leethub/tree/master/0073-set-matrix-zeroes) |
 ## Monotonic Stack
 |  |
 | ------- |
