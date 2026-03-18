@@ -5,6 +5,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sanjitram/leethub/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sanjitram/leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sanjitram/leethub/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanjitram/leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sanjitram/leethub/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/sanjitram/leethub/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sanjitram/leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sanjitram/leethub/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjitram/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -32,6 +34,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sanjitram/leethub/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/sanjitram/leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sanjitram/leethub/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sanjitram/leethub/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -196,4 +199,8 @@
 | ------- |
 | [0078-subsets](https://github.com/sanjitram/leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sanjitram/leethub/tree/master/0090-subsets-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/sanjitram/leethub/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
