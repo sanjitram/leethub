@@ -15,6 +15,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sanjitram/leethub/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/sanjitram/leethub/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sanjitram/leethub/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanjitram/leethub/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -100,6 +101,7 @@
 | [0049-group-anagrams](https://github.com/sanjitram/leethub/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sanjitram/leethub/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sanjitram/leethub/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sanjitram/leethub/tree/master/0079-word-search) |
 | [0567-permutation-in-string](https://github.com/sanjitram/leethub/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -122,6 +124,7 @@
 | [0073-set-matrix-zeroes](https://github.com/sanjitram/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sanjitram/leethub/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sanjitram/leethub/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sanjitram/leethub/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjitram/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0739-daily-temperatures](https://github.com/sanjitram/leethub/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sanjitram/leethub/tree/master/0875-koko-eating-bananas) |
@@ -144,6 +147,7 @@
 | [0040-combination-sum-ii](https://github.com/sanjitram/leethub/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sanjitram/leethub/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sanjitram/leethub/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sanjitram/leethub/tree/master/0079-word-search) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -159,6 +163,7 @@
 | [0048-rotate-image](https://github.com/sanjitram/leethub/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sanjitram/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sanjitram/leethub/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sanjitram/leethub/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
