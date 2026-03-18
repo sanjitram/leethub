@@ -121,6 +121,7 @@
 | [0057-insert-interval](https://github.com/sanjitram/leethub/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/sanjitram/leethub/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sanjitram/leethub/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/sanjitram/leethub/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjitram/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0739-daily-temperatures](https://github.com/sanjitram/leethub/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sanjitram/leethub/tree/master/0875-koko-eating-bananas) |
@@ -142,6 +143,7 @@
 | [0039-combination-sum](https://github.com/sanjitram/leethub/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sanjitram/leethub/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sanjitram/leethub/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/sanjitram/leethub/tree/master/0078-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -178,4 +180,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sanjitram/leethub/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sanjitram/leethub/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
