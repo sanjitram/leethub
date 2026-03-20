@@ -56,6 +56,7 @@
 | [0115-distinct-subsequences](https://github.com/sanjitram/leethub/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjitram/leethub/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/sanjitram/leethub/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/sanjitram/leethub/tree/master/0139-word-break) |
 ## Linked List
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0076-minimum-window-substring](https://github.com/sanjitram/leethub/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanjitram/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjitram/leethub/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/sanjitram/leethub/tree/master/0139-word-break) |
 | [0567-permutation-in-string](https://github.com/sanjitram/leethub/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -120,6 +122,7 @@
 | [0115-distinct-subsequences](https://github.com/sanjitram/leethub/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/sanjitram/leethub/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/sanjitram/leethub/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/sanjitram/leethub/tree/master/0139-word-break) |
 | [0567-permutation-in-string](https://github.com/sanjitram/leethub/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -149,6 +152,7 @@
 | [0130-surrounded-regions](https://github.com/sanjitram/leethub/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/sanjitram/leethub/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/sanjitram/leethub/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/sanjitram/leethub/tree/master/0139-word-break) |
 | [0739-daily-temperatures](https://github.com/sanjitram/leethub/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sanjitram/leethub/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/sanjitram/leethub/tree/master/1046-last-stone-weight) |
@@ -229,4 +233,12 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/sanjitram/leethub/tree/master/0134-gas-station) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sanjitram/leethub/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sanjitram/leethub/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
