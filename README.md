@@ -147,6 +147,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sanjitram/leethub/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjitram/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sanjitram/leethub/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/sanjitram/leethub/tree/master/0134-gas-station) |
 | [0739-daily-temperatures](https://github.com/sanjitram/leethub/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sanjitram/leethub/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/sanjitram/leethub/tree/master/1046-last-stone-weight) |
@@ -222,4 +223,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sanjitram/leethub/tree/master/0098-validate-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/sanjitram/leethub/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
