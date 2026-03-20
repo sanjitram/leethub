@@ -148,6 +148,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/sanjitram/leethub/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/sanjitram/leethub/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/sanjitram/leethub/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/sanjitram/leethub/tree/master/0136-single-number) |
 | [0739-daily-temperatures](https://github.com/sanjitram/leethub/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sanjitram/leethub/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/sanjitram/leethub/tree/master/1046-last-stone-weight) |
@@ -219,6 +220,7 @@
 | ------- |
 | [0078-subsets](https://github.com/sanjitram/leethub/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sanjitram/leethub/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/sanjitram/leethub/tree/master/0136-single-number) |
 ## Binary Search Tree
 |  |
 | ------- |
