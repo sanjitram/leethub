@@ -1,38 +1,38 @@
 class Solution {
 public:
-    bool found(string cur,vector<string>& wordDict){
-        for(string s:wordDict){
-            if(cur==s)
-                return true;
-        }
-        return false;
-    }
-    bool dfs(int i,string& s,vector<string>& wordDict,string& cur,vector<vector<int>>& dp){
-        if(i==s.size()){
-            if(found(cur,wordDict) || cur=="")
-                return true;
-            else
-                return false;
-        }
-        if(dp[i][cur.size()]!=-1){
-            if(dp[i][cur.size()]==1)    return true;
-            return false;
-        }
-        bool a=false,b=false;
-        string t=cur+s[i];
-        string em="";
-        if(found(t,wordDict))
-            a=dfs(i+1,s,wordDict,em,dp);
-        b=dfs(i+1,s,wordDict,t,dp);
-        if(a||b)
-            dp[i][cur.size()]=1;
-        else
-            dp[i][cur.size()]=0;
-        return a||b;
-    }
+    vector<int> memo;
+    vector<string> wordDict;
+    string s;
+
     bool wordBreak(string s, vector<string>& wordDict) {
-        string cur="";
-        vector<vector<int>> dp(s.size()+1,vector<int> (s.size()+1,-1));
-        return dfs(0,s,wordDict,cur,dp);
+        memo = vector(s.length(), -1);
+        this->wordDict = wordDict;
+        this->s = s;
+        return dp(s.length() - 1);
+    }
+
+    bool dp(int i) {
+        if (i < 0) return true;
+
+        if (memo[i] != -1) {
+            return memo[i] == 1;
+        }
+
+        for (string word : wordDict) {
+            int currSize = word.length();
+            // Handle out of bounds case
+            if (i - currSize + 1 < 0) {
+                continue;
+            }
+
+            if (s.substr(i - currSize + 1, currSize) == word &&
+                dp(i - currSize)) {
+                memo[i] = 1;
+                return true;
+            }
+        }
+
+        memo[i] = 0;
+        return false;
     }
 };
