@@ -79,6 +79,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sanjitram/leethub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/sanjitram/leethub/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/sanjitram/leethub/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/sanjitram/leethub/tree/master/0567-permutation-in-string) |
 | [2396-strictly-palindromic-number](https://github.com/sanjitram/leethub/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -114,6 +115,7 @@
 | [0091-decode-ways](https://github.com/sanjitram/leethub/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/sanjitram/leethub/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sanjitram/leethub/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/sanjitram/leethub/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/sanjitram/leethub/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
