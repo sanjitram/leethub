@@ -55,6 +55,7 @@
 | [0097-interleaving-string](https://github.com/sanjitram/leethub/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sanjitram/leethub/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sanjitram/leethub/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/sanjitram/leethub/tree/master/0131-palindrome-partitioning) |
 ## Linked List
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [0097-interleaving-string](https://github.com/sanjitram/leethub/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/sanjitram/leethub/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/sanjitram/leethub/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/sanjitram/leethub/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/sanjitram/leethub/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -170,6 +172,7 @@
 | [0078-subsets](https://github.com/sanjitram/leethub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sanjitram/leethub/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sanjitram/leethub/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/sanjitram/leethub/tree/master/0131-palindrome-partitioning) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
