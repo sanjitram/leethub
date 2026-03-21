@@ -111,6 +111,7 @@
 | [0139-word-break](https://github.com/sanjitram/leethub/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sanjitram/leethub/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/sanjitram/leethub/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/sanjitram/leethub/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0134-gas-station](https://github.com/sanjitram/leethub/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/sanjitram/leethub/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/sanjitram/leethub/tree/master/0139-word-break) |
+| [0621-task-scheduler](https://github.com/sanjitram/leethub/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/sanjitram/leethub/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sanjitram/leethub/tree/master/0875-koko-eating-bananas) |
 | [1046-last-stone-weight](https://github.com/sanjitram/leethub/tree/master/1046-last-stone-weight) |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sanjitram/leethub/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/sanjitram/leethub/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/sanjitram/leethub/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -209,6 +212,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sanjitram/leethub/tree/master/0049-group-anagrams) |
+| [0621-task-scheduler](https://github.com/sanjitram/leethub/tree/master/0621-task-scheduler) |
 ## String Matching
 |  |
 | ------- |
@@ -236,6 +240,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/sanjitram/leethub/tree/master/0134-gas-station) |
+| [0621-task-scheduler](https://github.com/sanjitram/leethub/tree/master/0621-task-scheduler) |
 ## Trie
 |  |
 | ------- |
@@ -244,4 +249,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sanjitram/leethub/tree/master/0139-word-break) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/sanjitram/leethub/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
